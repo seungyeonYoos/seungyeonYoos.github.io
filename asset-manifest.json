@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.545e79a3.css",
+    "main.js": "/static/js/main.7a1ec642.js",
+    "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
+    "static/media/socket.png": "/static/media/socket.65d194a278270bdceb6a.png",
+    "static/media/onetable.png": "/static/media/onetable.de1904d70a4ff2d95c7c.png",
+    "static/media/artbox.png": "/static/media/artbox.ac7c469a48b484e583e2.png",
+    "static/media/portfolio.png": "/static/media/portfolio.742dcd5b03d65e466000.png",
+    "static/media/sea.jpg": "/static/media/sea.d05648ca1a4836e1d465.jpg",
+    "static/media/Munch_1.png": "/static/media/Munch_1.690606720056d7badb4c.png",
+    "static/media/Munch.jpg": "/static/media/Munch.dd55022e592f535e4b7d.jpg",
+    "static/media/notion_hover.png": "/static/media/notion_hover.f57512b9fcc2eb1da815.png",
+    "static/media/notion.png": "/static/media/notion.3792ccea839d2eedbccf.png",
+    "static/media/email_hover.png": "/static/media/email_hover.1fc98cb3be1343849f4a.png",
+    "static/media/git_hover.png": "/static/media/git_hover.946157fb9da6754a7c5b.png",
+    "static/media/email.png": "/static/media/email.1fc416ef9898b981d6cb.png",
+    "static/media/git.png": "/static/media/git.2341fa969d45f2879306.png",
+    "index.html": "/index.html",
+    "main.545e79a3.css.map": "/static/css/main.545e79a3.css.map",
+    "main.7a1ec642.js.map": "/static/js/main.7a1ec642.js.map",
+    "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.545e79a3.css",
+    "static/js/main.7a1ec642.js"
+  ]
+}
