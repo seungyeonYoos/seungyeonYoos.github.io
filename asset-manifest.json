@@ -1,15 +1,25 @@
 {
   "files": {
-    "main.css": "/static/css/main.545e79a3.css",
-    "main.js": "/static/js/main.7a1ec642.js",
-    "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
+    "main.css": "/static/css/main.271a2383.css",
+    "main.js": "/static/js/main.be837a93.js",
+    "static/js/787.7da95b79.chunk.js": "/static/js/787.7da95b79.chunk.js",
     "static/media/socket.png": "/static/media/socket.65d194a278270bdceb6a.png",
     "static/media/onetable.png": "/static/media/onetable.de1904d70a4ff2d95c7c.png",
+    "static/media/onss_1.png": "/static/media/onss_1.53ca9dc64da944a03d18.png",
     "static/media/artbox.png": "/static/media/artbox.ac7c469a48b484e583e2.png",
+    "static/media/socialerus_6.png": "/static/media/socialerus_6.b9e9f044c579613d7ee2.png",
+    "static/media/onss_2.png": "/static/media/onss_2.236cbb625440b642e5af.png",
     "static/media/portfolio.png": "/static/media/portfolio.742dcd5b03d65e466000.png",
+    "static/media/socialerus_2.png": "/static/media/socialerus_2.c9825162200cef92b504.png",
+    "static/media/socialerus_4.png": "/static/media/socialerus_4.b75509b3d8b8b3eded37.png",
+    "static/media/socialerus_1.png": "/static/media/socialerus_1.9f5e41027b58cf3d4d16.png",
+    "static/media/onss_3.png": "/static/media/onss_3.68b279bf55656002dbe5.png",
+    "static/media/socialerus_3.png": "/static/media/socialerus_3.d28f88e65a9dc7df914a.png",
     "static/media/sea.jpg": "/static/media/sea.d05648ca1a4836e1d465.jpg",
     "static/media/Munch_1.png": "/static/media/Munch_1.690606720056d7badb4c.png",
+    "static/media/socialerus_5.png": "/static/media/socialerus_5.7205ff1a05316ac28d4e.png",
     "static/media/Munch.jpg": "/static/media/Munch.dd55022e592f535e4b7d.jpg",
+    "static/media/onss_4.png": "/static/media/onss_4.233b8de236e038d4deba.png",
     "static/media/notion_hover.png": "/static/media/notion_hover.f57512b9fcc2eb1da815.png",
     "static/media/notion.png": "/static/media/notion.3792ccea839d2eedbccf.png",
     "static/media/email_hover.png": "/static/media/email_hover.1fc98cb3be1343849f4a.png",
@@ -17,12 +27,12 @@
     "static/media/email.png": "/static/media/email.1fc416ef9898b981d6cb.png",
     "static/media/git.png": "/static/media/git.2341fa969d45f2879306.png",
     "index.html": "/index.html",
-    "main.545e79a3.css.map": "/static/css/main.545e79a3.css.map",
-    "main.7a1ec642.js.map": "/static/js/main.7a1ec642.js.map",
-    "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
+    "main.271a2383.css.map": "/static/css/main.271a2383.css.map",
+    "main.be837a93.js.map": "/static/js/main.be837a93.js.map",
+    "787.7da95b79.chunk.js.map": "/static/js/787.7da95b79.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.545e79a3.css",
-    "static/js/main.7a1ec642.js"
+    "static/css/main.271a2383.css",
+    "static/js/main.be837a93.js"
   ]
 }
